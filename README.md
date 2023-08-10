@@ -1,4 +1,4 @@
-# Submission 1: Machine Learning Pipeline - Churn Prediction
+# Submission 2: Machine Learning Pipeline - Churn Prediction
 
 Username dicoding: mzfuadi97
 
